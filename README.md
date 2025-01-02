@@ -1,5 +1,5 @@
 ## Hi there 👋
-## 그래요 저에요!!
+## 양현우 입니다.!!
 
 <!--
 **hyunuda/hyunuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
