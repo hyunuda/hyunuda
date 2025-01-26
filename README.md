@@ -1,3 +1,4 @@
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&text=HyunwooYang&section=header" />
 
 ## Tech Stack
@@ -21,6 +22,6 @@
 <img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
- 
+</div>
   
  
